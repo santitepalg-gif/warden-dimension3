@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "warden_dimension:block/glow_crystal_block"
+  }
+}

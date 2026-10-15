@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "warden_dimension:block/resonant_log_top",
+    "side": "warden_dimension:block/resonant_log"
+  }
+}

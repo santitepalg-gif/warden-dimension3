@@ -1,0 +1,16 @@
+{
+  "block.warden_dimension.sculk_stone": "Piedra Sculk",
+  "block.warden_dimension.echo_moss_block": "Bloque de Musgo Eco",
+  "block.warden_dimension.twilight_sculk": "Sculk Crepuscular",
+  "block.warden_dimension.resonant_log": "Tronco Resonante",
+  "block.warden_dimension.resonant_leaves": "Hojas Resonantes",
+  "block.warden_dimension.glow_crystal_block": "Bloque de Cristal Luminoso",
+  "block.warden_dimension.sculk_bricks": "Ladrillos de Sculk",
+  "block.warden_dimension.warden_frame": "Marco del Warden",
+  "block.warden_dimension.warden_portal": "Portal del Warden",
+  "block.warden_dimension.glowcap": "Hongo Luminoso",
+  "itemGroup.warden_dimension": "Dimensi\u00f3n Warden",
+  "block.warden_dimension.twilight_leaves": "Hojas Crepusculares",
+  "block.warden_dimension.warden_bone": "Hueso del Warden",
+  "block.warden_dimension.dangling_strand": "Hebra Colgante"
+}

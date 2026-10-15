@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "warden_dimension:block/glowcap"
+  },
+  "render_type": "minecraft:cutout"
+}

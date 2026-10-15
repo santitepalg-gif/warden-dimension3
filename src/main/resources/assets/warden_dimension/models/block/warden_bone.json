@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "warden_dimension:block/warden_bone_top",
+    "side": "warden_dimension:block/warden_bone"
+  }
+}

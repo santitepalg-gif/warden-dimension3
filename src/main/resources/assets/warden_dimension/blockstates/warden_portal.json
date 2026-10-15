@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "warden_dimension:block/warden_portal_x"
+    },
+    "axis=z": {
+      "model": "warden_dimension:block/warden_portal_z"
+    }
+  }
+}

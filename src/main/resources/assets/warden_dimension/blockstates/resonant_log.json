@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "warden_dimension:block/resonant_log"
+    },
+    "axis=z": {
+      "model": "warden_dimension:block/resonant_log",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "warden_dimension:block/resonant_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

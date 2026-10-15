@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "warden_dimension:block/twilight_leaves"
+  },
+  "render_type": "minecraft:cutout_mipped"
+}

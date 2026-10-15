@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "warden_dimension:block/echo_moss_top",
+    "side": "warden_dimension:block/echo_moss_side",
+    "bottom": "warden_dimension:block/sculk_stone"
+  }
+}

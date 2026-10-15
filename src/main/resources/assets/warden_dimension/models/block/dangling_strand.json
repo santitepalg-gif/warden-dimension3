@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "warden_dimension:block/dangling_strand"
+  },
+  "render_type": "minecraft:cutout"
+}

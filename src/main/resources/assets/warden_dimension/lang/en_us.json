@@ -1,0 +1,16 @@
+{
+  "block.warden_dimension.sculk_stone": "Sculk Stone",
+  "block.warden_dimension.echo_moss_block": "Echo Moss Block",
+  "block.warden_dimension.twilight_sculk": "Twilight Sculk",
+  "block.warden_dimension.resonant_log": "Resonant Log",
+  "block.warden_dimension.resonant_leaves": "Resonant Leaves",
+  "block.warden_dimension.glow_crystal_block": "Glow Crystal Block",
+  "block.warden_dimension.sculk_bricks": "Sculk Bricks",
+  "block.warden_dimension.warden_frame": "Warden Frame",
+  "block.warden_dimension.warden_portal": "Warden Portal",
+  "block.warden_dimension.glowcap": "Glowcap",
+  "itemGroup.warden_dimension": "Warden Dimension",
+  "block.warden_dimension.twilight_leaves": "Twilight Leaves",
+  "block.warden_dimension.warden_bone": "Warden Bone",
+  "block.warden_dimension.dangling_strand": "Dangling Strand"
+}
