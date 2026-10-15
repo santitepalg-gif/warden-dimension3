@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "warden_dimension:sculk_stone",
+    "warden_dimension:sculk_bricks",
+    "warden_dimension:glow_crystal_block"
+  ]
+}
