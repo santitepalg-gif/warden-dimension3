@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BOB",
+    "BEB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "warden_dimension:sculk_bricks"
+    },
+    "O": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "result": {
+    "item": "warden_dimension:warden_frame",
+    "count": 2
+  }
+}

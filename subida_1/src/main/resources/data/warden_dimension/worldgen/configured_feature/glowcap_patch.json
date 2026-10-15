@@ -1,0 +1,61 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "tries": 64,
+    "xz_spread": 6,
+    "y_spread": 2,
+    "feature": {
+      "feature": {
+        "type": "minecraft:simple_block",
+        "config": {
+          "to_place": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+              {
+                "weight": 4,
+                "data": {
+                  "Name": "warden_dimension:glowcap"
+                }
+              },
+              {
+                "weight": 1,
+                "data": {
+                  "Name": "minecraft:moss_carpet"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "minecraft:air"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ],
+                "blocks": [
+                  "warden_dimension:echo_moss_block",
+                  "warden_dimension:twilight_sculk",
+                  "warden_dimension:sculk_stone",
+                  "minecraft:sculk",
+                  "warden_dimension:sculk_bricks"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
